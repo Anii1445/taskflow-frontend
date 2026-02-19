@@ -13,16 +13,16 @@ Project Link: https://taskflow-projectmanagement.vercel.app/login
 ## 📸 ScreenShots
 
 ### Sign-Up
-![Sign-Up Page](./screenshots/sign-up.png)
+![Sign-Up Page](./screenshots/sign-up.jpg)
 
 ### Login 
-![Login Page](./screenshots/login.png)
+![Login Page](./screenshots/login.jpg)
 
 ### Homepage
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/home.jpg)
 
 ### Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+![Admin Dashboard](./screenshots/admin-dashboard.jpg)
 
 ------------------------------------------------------------------------------------------------
 

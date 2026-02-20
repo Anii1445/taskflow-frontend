@@ -1,6 +1,6 @@
 # TaskFlow — Team Task Management System
 
-A production-grade, full-stack team task management system built with the MERN stack. Like Trello/Notion Lite, with JWT authentication, role-based access, Kanban boards, comments, file uploads, and more.
+A production-grade, full-stack team task management system built with the MERN stack. Like Trello/Notion Lite, with JWT authentication, role-based access, Kanban boards, comments, file uploads, and more. Admin manages task, projects and member.
 
 ------------------------------------------------------------------------------------------------
 
